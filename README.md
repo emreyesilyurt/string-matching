@@ -5,7 +5,7 @@ This repo provides a Python module for performing fuzzy string matching between 
 ## Directory Structure
 
 ```plaintext
-my_fuzzy_matching_project/
+string-matching/
 │
 ├── src/
 │   ├── __init__.py
